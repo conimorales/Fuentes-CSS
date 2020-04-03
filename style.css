@@ -1,0 +1,39 @@
+@font-face{
+    font-family: fuentecustom;
+    src: url(fonts/Dancing_Script/DancingScript-VariableFont_wght.ttf)
+}
+body{
+    text-align: center;
+}
+h1{
+    font-family: 'Lacquer', sans-serif;
+    font-style: normal;
+    /*Colores*/
+
+    /*Colores del sistema*/
+    color: mediumblue;
+
+    /*Colores hexagecimales*/
+    color: #cccccc;
+    color: #000000;
+    color: #ffffff; 
+    color: transparent;
+    color: #eeeeee;
+    /*Colores RGB*/
+    color: rgb(17, 0, 114);
+    /*Colores RGBA*/
+    color: rgba(255,10,20,40);
+}
+h3{
+    font-family: 'Lacquer', sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+    font-style: italic;
+    color: rgb(142, 140, 179);
+}
+p{
+    font-family: fuentecustom;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: italic;
+}
